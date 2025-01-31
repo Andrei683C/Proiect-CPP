@@ -1,0 +1,8 @@
+6
+6
+1 John Doe 1990 123_Main_St +1234567890 Flu
+2 Alice Smith 1985 456_Oak_St +9876543210 Covid
+3 Bob Johnson 1978 789_Pine_St +1928374650 Allergy
+4 Emma Brown 1995 321_Maple_Ave +1122334455 Asthma
+5 Michael Lee 1982 654_Birch_Rd +5566778899 Diabetes
+6 Sarah Wilson 2000 987_Elm_St +6677889900 Migraine
