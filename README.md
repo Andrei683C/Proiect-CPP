@@ -1,4 +1,5 @@
 This project is a Patient Management System designed as part of the CMPE241 - Computer Programming II course. The program demonstrates Tabular Data Processing using objects, files, and dynamic arrays. It allows users to manage a database of patient records with features for adding, editing, searching, sorting, and saving patient data.
+
 Features
 
 The program includes the following functionalities:
